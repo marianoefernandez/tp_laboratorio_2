@@ -1,0 +1,229 @@
+Tipo de Mueble: Vidrio
+Nombre del mueble:Mesa circular
+Peso:11,9 kg
+Altura:70 cm
+Anchura:115 cm
+Profundidad:38 cm
+Unidades a fabricadas:14 muebles
+
+Fecha y hora de Fabricación:8/6/2021 17:35:09
+
+Gasto en materia prima en 14 muebles:214,75 $
+Costos de Producción:10,74 $
+IVA por Materia Prima:45,10 $
+
+Costo total de fabricación:270,58 $
+Costo total por unidad:19,33 $
+
+Precio recomendado para distribuir:297,64 $
+Precio recomendado para distribuir por unidad:21,26 $
+
+******************************************************************************
+Tipo de Mueble: Madera
+Tipo de Madera: Roble
+Color: Negro
+Nombre del mueble:Mesa grande negra
+Peso:90 kg
+Altura:115 cm
+Anchura:305 cm
+Profundidad:67 cm
+Unidades a fabricadas:7 muebles
+
+Fecha y hora de Fabricación:8/6/2021 17:37:18
+Gasto en materia prima en 7 muebles:526,05 $
+Impuesto al roble:52,61 $
+Costos de Producción:73,65 $
+IVA por Materia Prima:110,47 $
+
+Costo total de fabricación:762,77 $
+Costo total por unidad:108,97 $
+
+Precio recomendado para distribuir:839,05 $
+Precio recomendado para distribuir por unidad:119,86 $
+
+******************************************************************************
+Tipo de Mueble: Madera
+Tipo de Madera: Pino
+Color: Rojo
+Nombre del mueble:Silla
+Peso:8,8 kg
+Altura:45 cm
+Anchura:67 cm
+Profundidad:38 cm
+Unidades a fabricadas:11 muebles
+
+Fecha y hora de Fabricación:8/6/2021 17:42:06
+Gasto en materia prima en 11 muebles:72,79 $
+Costos de Producción:10,19 $
+IVA por Materia Prima:15,29 $
+
+Costo total de fabricación:98,27 $
+Costo total por unidad:8,93 $
+
+Precio recomendado para distribuir:108,10 $
+Precio recomendado para distribuir por unidad:9,83 $
+
+******************************************************************************
+Tipo de Mueble: Madera
+Tipo de Madera: Abedul
+Color: Blanco
+Nombre del mueble:Escritorio
+Peso:27,2 kg
+Altura:77 cm
+Anchura:128 cm
+Profundidad:44 cm
+Unidades a fabricadas:22 muebles
+
+Fecha y hora de Fabricación:8/6/2021 17:42:55
+Gasto en materia prima en 22 muebles:421,27 $
+Costos de Producción:58,98 $
+IVA por Materia Prima:88,47 $
+
+Costo total de fabricación:568,72 $
+Costo total por unidad:25,85 $
+
+Precio recomendado para distribuir:625,59 $
+Precio recomendado para distribuir por unidad:28,44 $
+
+******************************************************************************
+Tipo de Mueble: Metal
+Tipo de Metal: Aluminio
+Nombre del mueble:Silla
+Peso:9,4 kg
+Altura:55 cm
+Anchura:64 cm
+Profundidad:38 cm
+Unidades a fabricadas:16 muebles
+
+Fecha y hora de Fabricación:8/6/2021 17:43:47
+
+Gasto en materia prima en 16 muebles:302,91 $
+Costos de Producción:30,29 $
+IVA por Materia Prima:63,61 $
+
+Costo total de fabricación:396,81 $
+Costo total por unidad:24,80 $
+
+Precio recomendado para distribuir:436,49 $
+Precio recomendado para distribuir por unidad:27,28 $
+
+******************************************************************************
+Tipo de Mueble: Metal
+Tipo de Metal: Acero
+Color: Gris
+Nombre del mueble:Mesa
+Peso:38,4 kg
+Altura:80 cm
+Anchura:115 cm
+Profundidad:47 cm
+Unidades a fabricadas:11 muebles
+
+Fecha y hora de Fabricación:8/6/2021 17:45:39
+
+Gasto en materia prima en 11 muebles:315,53 $
+Costos de Producción:56,80 $
+IVA por Materia Prima:66,26 $
+
+Costo total de fabricación:438,59 $
+Costo total por unidad:39,87 $
+
+Precio recomendado para distribuir:482,45 $
+Precio recomendado para distribuir por unidad:43,86 $
+
+******************************************************************************
+Tipo de Mueble: Madera
+Tipo de Madera: Roble
+Color:Sin pintar
+Nombre del mueble:Mesa
+Peso:26,9 kg
+Altura:65 cm
+Anchura:144 cm
+Profundidad:37 cm
+Unidades a fabricadas:Un solo mueble
+
+Fecha y hora de Fabricación:9/6/2021 10:03:00
+Gasto en materia prima en Un solo mueble:22,46 $
+Impuesto al roble:2,25 $
+Costos de Producción:1,57 $
+IVA por Materia Prima:4,72 $
+
+Costo total de fabricación:31,00 $
+Costo total por unidad:31,00 $
+
+Precio recomendado para distribuir:34,10 $
+Precio recomendado para distribuir por unidad:34,10 $
+
+******************************************************************************
+Tipo de Mueble: Madera
+Tipo de Madera: Roble
+Color: Rojo
+Nombre del mueble:Mesa
+Peso:26,9 kg
+Altura:65 cm
+Anchura:144 cm
+Profundidad:37 cm
+Unidades a fabricadas:Un solo mueble
+
+Fecha y hora de Fabricación:9/6/2021 10:03:26
+Gasto en materia prima en Un solo mueble:22,46 $
+Impuesto al roble:2,25 $
+Costos de Producción:3,14 $
+IVA por Materia Prima:4,72 $
+
+Costo total de fabricación:32,57 $
+Costo total por unidad:32,57 $
+
+Precio recomendado para distribuir:35,83 $
+Precio recomendado para distribuir por unidad:35,83 $
+
+******************************************************************************
+Tipo de Mueble: Metal
+Tipo de Metal: Acero
+Color:Sin pintar
+Nombre del mueble:Mesa
+Peso:26,9 kg
+Altura:65 cm
+Anchura:144 cm
+Profundidad:37 cm
+Unidades a fabricadas:Un solo mueble
+
+Fecha y hora de Fabricación:9/6/2021 10:05:03
+
+Gasto en materia prima en Un solo mueble:20,09 $
+Costos de Producción:2,01 $
+IVA por Materia Prima:4,22 $
+
+Costo total de fabricación:26,32 $
+Costo total por unidad:26,32 $
+
+Precio recomendado para distribuir:28,96 $
+Precio recomendado para distribuir por unidad:28,96 $
+
+******************************************************************************
+Tipo de Mueble: Metal
+Tipo de Metal: Acero
+Color: Azul
+Nombre del mueble:Mesa
+Peso:26,9 kg
+Altura:65 cm
+Anchura:144 cm
+Profundidad:37 cm
+Unidades a fabricadas:Un solo mueble
+
+Fecha y hora de Fabricación:9/6/2021 10:05:26
+
+Gasto en materia prima en Un solo mueble:20,09 $
+Costos de Producción:3,62 $
+IVA por Materia Prima:4,22 $
+
+Costo total de fabricación:27,93 $
+Costo total por unidad:27,93 $
+
+Precio recomendado para distribuir:30,72 $
+Precio recomendado para distribuir por unidad:30,72 $
+
+******************************************************************************
+
+Total de muebles fabricados:85 Muebles
+
+Gasto total:2.653,56 $

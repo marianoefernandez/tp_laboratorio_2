@@ -1,0 +1,38 @@
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\bin\Debug\FrmMenuPrincipal.exe.config
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\bin\Debug\FrmMenuPrincipal.exe
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\bin\Debug\FrmMenuPrincipal.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMuebles.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmMenuPrincipal.resources
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmVerMuebles.resources
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.Properties.Resources.resources
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMuebles.csproj.GenerateResource.cache
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMuebles.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.exe
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmFabricarMueble.resources
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\bin\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\bin\Debug\Entidades.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMuebles.csproj.CopyComplete
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmNuevoMueble.resources
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmModificarMuebles.resources
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmBorrarMueble.resources
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmModificarMueble.resources
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\bin\Debug\FrmMenuPrincipal.exe.config
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\bin\Debug\FrmMenuPrincipal.exe
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\bin\Debug\FrmMenuPrincipal.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\bin\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\bin\Debug\Entidades.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMuebles.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmBorrarMueble.resources
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmFabricarMueble.resources
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmMenuPrincipal.resources
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmModificarMueble.resources
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmModificarMuebles.resources
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmNuevoMueble.resources
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.FrmVerMuebles.resources
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.Properties.Resources.resources
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMuebles.csproj.GenerateResource.cache
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMuebles.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMuebles.csproj.CopyComplete
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.exe
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FrmMenuPrincipal\obj\Debug\FrmMenuPrincipal.pdb
