@@ -108,5 +108,16 @@ namespace FrmMenuPrincipal
         {
             MessageBox.Show("Operación cancelada", "Cancelar", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        /// <summary>
+        /// No permite escribir en la info.
+        /// </summary>
+        /// <param name="sender">objeto sender</param>
+        /// <param name="e">e</param>
+        private void rtbInfoMuebles_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = true;
+            return;
+        }
     }
 }

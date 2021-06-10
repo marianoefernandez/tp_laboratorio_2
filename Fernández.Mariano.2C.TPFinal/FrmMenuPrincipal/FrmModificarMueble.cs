@@ -247,7 +247,7 @@ namespace FrmMenuPrincipal
                             {
                                 Fabrica.Muebles.Insert(indiceMuebleAnterior, this.nuevoMueble);
                                 Fabrica.Muebles.RemoveAt(indiceMuebleAnterior + 1);
-                                MessageBox.Show("Producto modificado con exito!", "Exito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                MessageBox.Show("Mueble modificado con exito!", "Exito", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                 resultado = MessageBox.Show("¿Desea generar un .txt de la Modificación?", "Atención", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
 
                                 if (resultado == DialogResult.Yes)

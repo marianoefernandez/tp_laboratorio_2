@@ -46,6 +46,7 @@
             this.rtbInfoMuebles.Size = new System.Drawing.Size(150, 173);
             this.rtbInfoMuebles.TabIndex = 18;
             this.rtbInfoMuebles.Text = "";
+            this.rtbInfoMuebles.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.rtbInfoMuebles_KeyPress);
             // 
             // lbxBorrarMuebles
             // 

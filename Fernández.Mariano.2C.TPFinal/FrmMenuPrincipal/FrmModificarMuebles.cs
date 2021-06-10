@@ -89,5 +89,16 @@ namespace FrmMenuPrincipal
                 rtbInfoMuebles.Text = string.Empty;
             }
         }
+
+        /// <summary>
+        /// No permite escribir en la info.
+        /// </summary>
+        /// <param name="sender">objeto sender</param>
+        /// <param name="e">e</param>
+        private void rtbInfoMuebles_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = true;
+            return;
+        }
     }
 }

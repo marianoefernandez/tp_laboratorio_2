@@ -251,7 +251,7 @@ namespace FrmMenuPrincipal
                 {
                     if(this.mueble.ValidarMedidas())
                     {
-                        MessageBox.Show("Producto fabricado con exito!", "Exito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        MessageBox.Show("Mueble fabricado con exito!", "Exito", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         Fabrica.AgregarMueble = this.mueble;
                         FrmNuevoMueble frmNuevoMueble = new FrmNuevoMueble(this.mueble);
                         frmNuevoMueble.ShowDialog();
