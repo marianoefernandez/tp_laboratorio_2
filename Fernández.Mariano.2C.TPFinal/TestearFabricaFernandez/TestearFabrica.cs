@@ -7,6 +7,39 @@ namespace TestearFabricaFernandez
     [TestClass]
     public class TestearFabrica
     {
+
+        #region Carga de Datos
+        /// <summary>
+        /// Carga todos los datos a la lista para que se testeen
+        /// </summary>
+        public void CargaDeDatos()
+        {
+            Mueble sillaMaderaRoble = new Madera("silla de madera", 3, (float)2.6, 38, 32, 29, eColor.Rojo, eTipoDeMadera.Roble);
+            Mueble sillaMaderaRoble2 = new Madera("Silla de madera", 7, (float)2.6, 38, 32, 29, eColor.Rojo, eTipoDeMadera.Roble);
+            Mueble mesaMaderaAbedul = new Madera("Mesa de madera", 9, (float)8.7, 65, 51, 44, eColor.Negro, eTipoDeMadera.Abedul);
+            Mueble escritorioMaderaPino = new Madera("Escritorio de madera", 5, (float)6.9, 46, 40, 38, eColor.Sin, eTipoDeMadera.Pino);
+            Mueble sillaMetalAluminio = new Metal("Silla de aluminio", 1, (float)4.4, 41, 34, 25, eColor.Violeta, eTipoDeMetal.Aluminio);//Deberia setear el color en Sin
+            Mueble mesaMetalAcero = new Metal("Mesa de acero", 2, (float)9.9, 66, 49, 41, eColor.Verde, eTipoDeMetal.Acero);
+            Mueble mesaVidrio = new Vidrio("Mesa de vidrio", 4, (float)7.6, 61, 47, 43);
+
+            Fabrica.AgregarMueble = sillaMaderaRoble;
+            Fabrica.AgregarMueble = sillaMaderaRoble2;
+            Fabrica.AgregarMueble = mesaMaderaAbedul;
+            Fabrica.AgregarMueble = escritorioMaderaPino;
+            Fabrica.AgregarMueble = sillaMetalAluminio;
+            Fabrica.AgregarMueble = mesaMetalAcero;
+            Fabrica.AgregarMueble = mesaVidrio;
+
+            Mueble mesaVidrio2 = new Vidrio();//Por defecto, no deberia dejar de agregar a la lista
+            Mueble mesaMadera = new Madera();//Por defecto, no deberia dejar de agregar a la lista
+            Mueble sillaMetal = new Metal();//Por defecto, no deberia dejar de agregar a la lista
+
+            Fabrica.AgregarMueble = mesaVidrio2;//NO SE AGREGA A LA LISTA
+            Fabrica.AgregarMueble = mesaMadera;//NO SE AGREGA A LA LISTA
+            Fabrica.AgregarMueble = sillaMetal;//NO SE AGREGA A LA LISTA
+        }
+        #endregion
+
         /// <summary>
         /// Testea que el gasto total no sea cero si se agrego al menos un elemento
         /// </summary>
@@ -14,6 +47,7 @@ namespace TestearFabricaFernandez
         public void TestearGastoTotal()
         {
             //ARRANGE
+            CargaDeDatos();
             bool resultado=true;
 
             //ACT
@@ -24,6 +58,7 @@ namespace TestearFabricaFernandez
 
             //ASSERT
             Assert.IsTrue(resultado);
+            Fabrica.Muebles.Clear();
         }
 
         /// <summary>
@@ -33,6 +68,7 @@ namespace TestearFabricaFernandez
         public void TestearInfo()
         {
             //ARRANGE
+            CargaDeDatos();
             bool resultado = true;
 
             //ACT
@@ -43,6 +79,7 @@ namespace TestearFabricaFernandez
 
             //ASSERT
             Assert.IsTrue(resultado);
+            Fabrica.Muebles.Clear();
         }
     }
 }
