@@ -1,0 +1,22 @@
+Tipo de Mueble: Madera
+Tipo de Madera: Pino
+Color: Azul
+Nombre del mueble:Silla
+Id:16
+Peso:11 kg
+Altura:34 cm
+Anchura:38 cm
+Profundidad:32 cm
+Unidades a fabricadas:12 muebles
+
+Fecha y hora de Fabricación:11/7/2021 20:45:31
+Gasto en materia prima en 12 muebles:99,26 $
+Costos de Producción:20,85 $
+IVA por Materia Prima:20,85 $
+
+Costo total de fabricación:140,95 $
+Costo total por unidad:11,75 $
+
+Precio recomendado para distribuir:155,05 $
+Precio recomendado para distribuir por unidad:12,92 $
+

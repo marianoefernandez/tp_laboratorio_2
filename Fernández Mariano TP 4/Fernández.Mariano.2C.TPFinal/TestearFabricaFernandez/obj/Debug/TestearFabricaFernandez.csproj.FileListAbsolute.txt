@@ -1,0 +1,76 @@
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\TestearFabricaFernandez.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\TestearFabricaFernandez.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.csproj.CopyComplete
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\TestearFabricaFernandez\bin\Debug\Entidades.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\TestearFabricaFernandez.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\TestearFabricaFernandez.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Entidades.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.csproj.CopyComplete
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.pdb
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\TestearFabricaFernandez.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\TestearFabricaFernandez.pdb
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Entidades.pdb
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.csproj.CopyComplete
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.pdb
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\TestearFabricaFernandez.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\TestearFabricaFernandez.pdb
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Entidades.pdb
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.csproj.CopyComplete
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\TestearFabricaFernandez\obj\Debug\TestearFabricaFernandez.pdb

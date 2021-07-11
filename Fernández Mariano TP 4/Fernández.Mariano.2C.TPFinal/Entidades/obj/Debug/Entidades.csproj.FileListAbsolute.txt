@@ -1,0 +1,18 @@
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\Entidades\bin\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\Entidades\obj\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\tp_laboratorio_2\Fernández Mariano TP 4\Fernández.Mariano.2C.TPFinal\Entidades\obj\Debug\Entidades.pdb

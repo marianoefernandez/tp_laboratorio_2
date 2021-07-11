@@ -1,0 +1,20 @@
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FabricaTest\bin\Debug\FabricaTest.exe.config
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FabricaTest\bin\Debug\FabricaTest.exe
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FabricaTest\bin\Debug\FabricaTest.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FabricaTest\bin\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FabricaTest\bin\Debug\Entidades.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FabricaTest\obj\Debug\FabricaTest.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FabricaTest\obj\Debug\FabricaTest.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FabricaTest\obj\Debug\FabricaTest.csproj.CopyComplete
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FabricaTest\obj\Debug\FabricaTest.exe
+C:\Users\mezeq\OneDrive\Escritorio\Trabajo Practico Nro 3\FabricaTest\obj\Debug\FabricaTest.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FabricaTest\bin\Debug\FabricaTest.exe.config
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FabricaTest\bin\Debug\FabricaTest.exe
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FabricaTest\bin\Debug\FabricaTest.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FabricaTest\bin\Debug\Entidades.dll
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FabricaTest\bin\Debug\Entidades.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FabricaTest\obj\Debug\FabricaTest.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FabricaTest\obj\Debug\FabricaTest.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FabricaTest\obj\Debug\FabricaTest.csproj.CopyComplete
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FabricaTest\obj\Debug\FabricaTest.exe
+C:\Users\mezeq\OneDrive\Escritorio\Fernández.Mariano.2C.TPFinal\FabricaTest\obj\Debug\FabricaTest.pdb

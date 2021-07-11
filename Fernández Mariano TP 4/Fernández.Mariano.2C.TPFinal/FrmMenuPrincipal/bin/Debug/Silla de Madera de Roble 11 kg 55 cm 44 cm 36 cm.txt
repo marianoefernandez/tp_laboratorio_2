@@ -1,0 +1,23 @@
+Tipo de Mueble: Madera
+Tipo de Madera: Roble
+Color: Negro
+Nombre del mueble:Silla
+Id:0
+Peso:11 kg
+Altura:55 cm
+Anchura:44 cm
+Profundidad:36 cm
+Unidades a fabricadas:7 muebles
+
+Fecha y hora de Fabricación:10/7/2021 18:58:39
+Gasto en materia prima en 7 muebles:64,30 $
+Impuesto al roble:6,43 $
+Costos de Producción:9,00 $
+IVA por Materia Prima:13,50 $
+
+Costo total de fabricación:93,23 $
+Costo total por unidad:13,32 $
+
+Precio recomendado para distribuir:102,55 $
+Precio recomendado para distribuir por unidad:14,65 $
+

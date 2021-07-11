@@ -1,0 +1,23 @@
+Tipo de Mueble: Madera
+Tipo de Madera: Roble
+Color: Negro
+Nombre del mueble:Armario
+Id:21
+Peso:101 kg
+Altura:203 cm
+Anchura:185 cm
+Profundidad:125 cm
+Unidades a fabricadas:4 muebles
+
+Fecha y hora de Fabricación:11/7/2021 20:42:42
+Gasto en materia prima en 4 muebles:337,34 $
+Impuesto al roble:33,73 $
+Costos de Producción:70,84 $
+IVA por Materia Prima:70,84 $
+
+Costo total de fabricación:512,76 $
+Costo total por unidad:128,19 $
+
+Precio recomendado para distribuir:564,03 $
+Precio recomendado para distribuir por unidad:141,01 $
+
